@@ -1,0 +1,30 @@
+body{
+    background-image: url("../img/fundo1.png");
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+.titulo{
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: aliceblue;
+    text-align: center;
+    margin-bottom: 10%;
+}
+button{
+    width: 50%;
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
+.btn{
+    margin: auto;
+    position: absolute;
+    padding: 12px 15px;
+    font-size: 20px;
+    background-color: #f5a2bc;
+    border-color: #f5a2bc;
+}
